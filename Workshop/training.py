@@ -1,0 +1,2 @@
+import HousePricingPrediction
+HousePricingPrediction().train()
